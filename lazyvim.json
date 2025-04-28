@@ -1,0 +1,10 @@
+{
+  "extras": [
+    "lazyvim.plugins.extras.lang.markdown"
+  ],
+  "news": {
+    "NEWS.md": "7429",
+    "doc/news.txt": "24170"
+  },
+  "version": 7
+}
